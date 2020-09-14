@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9422a00-4e6f-430f-84bc-70d9ff453192" name="Default Changelist" comment="first task" />
+    <list default="true" id="a9422a00-4e6f-430f-84bc-70d9ff453192" name="Default Changelist" comment="all functions ==&gt;&gt; methods of object personalMovieDB">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,8 +48,46 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\WebStorm\JS_course\1\project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS_course/1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS_course/1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1/project/script.js" working-dir="$PROJECT_DIR$/1/project">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1/js/script.js" working-dir="$PROJECT_DIR$/1/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.script.js" />
+        <item itemvalue="Node.js.script.js" />
+        <item itemvalue="JavaScript Debug.1.html" />
+        <item itemvalue="Node.js.1.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,7 +97,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599918105313</updated>
-      <workItem from="1599918106468" duration="422000" />
+      <workItem from="1599918106468" duration="9936000" />
+      <workItem from="1600006032033" duration="8515000" />
     </task>
     <task id="LOCAL-00001" summary="first task">
       <created>1599918206096</created>
@@ -40,17 +107,71 @@
       <option name="project" value="LOCAL" />
       <updated>1599918206096</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first task">
+      <created>1599918663634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599918663634</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add gitignore">
+      <created>1599920167646</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599920167646</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added loop">
+      <created>1599922213969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599922213969</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added writeYourGenres() and showMyDB(hidden)">
+      <created>1599985488170</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599985488170</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all functions ==&gt;&gt; methods of object personalMovieDB">
+      <created>1599996999580</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599996999580</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first task" />
-    <option name="LAST_COMMIT_MESSAGE" value="first task" />
+    <MESSAGE value="add gitignore" />
+    <MESSAGE value="added loop" />
+    <MESSAGE value="added writeYourGenres() and showMyDB(hidden)" />
+    <MESSAGE value="all functions ==&gt;&gt; methods of object personalMovieDB" />
+    <option name="LAST_COMMIT_MESSAGE" value="all functions ==&gt;&gt; methods of object personalMovieDB" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="524" y="68" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600063404860">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="524" y="68" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1600063404860" />
     <state x="448" y="86" key="FileChooserDialogImpl" timestamp="1599918132144">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -59,17 +180,37 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="546" y="242" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1599918285544" />
-    <state x="169" y="0" key="SettingsEditor" timestamp="1599918313465">
+    <state width="812" height="140" key="GridCell.Tab.0.bottom" timestamp="1600064190266">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="169" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599918313465" />
-    <state x="260" y="77" key="Vcs.Push.Dialog.v2" timestamp="1599918521571">
+    <state width="812" height="140" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600064190266" />
+    <state width="812" height="140" key="GridCell.Tab.0.center" timestamp="1600064190266">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="260" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599918521571" />
-    <state x="485" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599918233478">
+    <state width="812" height="140" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600064190266" />
+    <state width="812" height="140" key="GridCell.Tab.0.left" timestamp="1600064190266">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="485" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1599918233478" />
+    <state width="812" height="140" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600064190266" />
+    <state width="812" height="140" key="GridCell.Tab.0.right" timestamp="1600064190266">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="812" height="140" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600064190266" />
+    <state x="169" y="0" key="SettingsEditor" timestamp="1600016866819">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="169" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600016866819" />
+    <state x="260" y="77" key="Vcs.Push.Dialog.v2" timestamp="1599997008048">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="260" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1599997008048" />
+    <state x="485" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599918536444">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="485" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1599918536444" />
+    <state x="385" y="149" key="jetbrains.nodejs.interpreters-dialog" timestamp="1600013999092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="385" y="149" key="jetbrains.nodejs.interpreters-dialog/0.0.1280.680@0.0.1280.680" timestamp="1600013999092" />
   </component>
 </project>
